@@ -71,6 +71,7 @@ const generateReadme = ({
 # ${title}
 
 ## Description
+* This README was automatically created via a README generator tool.
 * ${description}
 
 ### Table of Contents  
