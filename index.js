@@ -77,7 +77,7 @@ const generateReadme = ({
 [Technologies used](#technologies) <br>
 [How to use](#Usage) <br>
 [How to install](#Installation) <br>
-[Report Issues](#Report-issues) <br>
+[Report Issues](#Report Issues) <br>
 [How to Contribute](#Contribute) <br>
 [Tests](#Tests) <br>
 [Questions](#Questions)
@@ -95,16 +95,16 @@ const generateReadme = ({
 ## Tests
 * ${tests}
 
-## Report-issues:
+## Report Issues:
 * ${report}
-* ${email}
-* ${github}
+* Email address: ${email}
+* GitHub username: ${github}
 
 ## Contribute:
 * ${contribute}
 
 ## Questions
-* If you have additional questions, please contact me via GitHub: ${github} or email me at ${email}.
+* If you have additional questions, please contact me via GitHub, username: ${github}, or email me at ${email}.
 `
 
 const init = () => {
